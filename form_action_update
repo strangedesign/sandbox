@@ -1,3 +1,4 @@
+<?php>
 <script type="text/javascript">
 function OnSubmitForm()
 {
@@ -61,3 +62,4 @@ function OnSubmitForm()
     </div>
   </form>
 </div>
+?>
